@@ -27,21 +27,17 @@ for i in range(10):
     finally:
         break
 
-
 # Merging all csv files into one
 import pandas as pd
 import os
-os.getcwd()
+import glob
 
 # Change cwd to the reviews folder
 # path = r"C:\Users\ShrawanPun\Drug Recommendation Project\Code\AllergyMedicineReviews"
 # os.chdir(path)
 
-master_df = pd.DataFrame()
-
-for file in os.listdir(os.getcwd()):
-    if file.endswith('.csv'):
-        master_df = pd.concat([pd.read_csv(file)])
-
-master_df.to_csv('MedicineReviews.csv', index=False)
-
+extension = 'csv'
+all_filenames = [i for i in glob.glob('*.{}'.format(extension))]
+combined_csv = pd.concat([pd.read_csv(f) for f in all_filenames])
+#export to csv
+combined_csv.to_csv("MedicineReviews.csv", index=False, encoding='utf-8-sig')
