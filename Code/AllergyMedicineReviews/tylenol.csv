@@ -1,0 +1,71 @@
+age,gender,condition,rating,review_long,review_short
+[' 55-64 |  '],[' Male |  '],[' Condition: Fever '],[' Overall rating 5.0 '],[],[]
+[' 65-74 |  '],[' Male |  '],[' Condition: Pain '],[' Overall rating 1.7 '],[],['I have never felt pain relief using Tylenol.']
+[' 75 or over |  '],[' Male |  '],[' Condition: Pain '],[' Overall rating 4.3 '],[],[]
+[' 65-74 |  '],[' Female |  '],[' Condition: Pain associated with Arthritis '],[' Overall rating 2.7 '],[],"['This Tylenol for Arthritis was being used with Ferromax at the same time, but had to be discontinued due to severe diarrhea. No one ( and I asked 3 doctors, and 5 pharmacists if they had heard of this) I had to decide whether to be in pain or keep my blood count up.     ']"
+[' 75 or over |  '],[' Male |  '],[' Condition: Backache '],[' Overall rating 4.0 '],[],[]
+[' 65-74 |  '],[' Female |  '],[' Condition: Pain associated with Arthritis '],[' Overall rating 5.0 '],[],"['I have,Rheumatoid Arthritis plus systemic lupus and am rarely without pain  I have found taking 2 Tylenol 3 times a day helps to keep me mobile without the pain getting severe']"
+[' Female |  '],[' Patient '],[' Condition: Toothache '],[' Overall rating 4.0 '],[],['My occasional use of Tylenol has brought prompt relief for toothache and also gall bladder pain.']
+[' 65-74 |  '],[' Male |  '],[' Condition: Pain associated with Arthritis '],[' Overall rating 5.0 '],[],[]
+[' 55-64 |  '],[' Female |  '],[' Condition: Other '],[' Overall rating 2.0 '],[],"[""This is the most worthless drug.  Why do you continue to make it. It is about effective as drinking water. If I hadn't been forced to take it for two due to a surgical procedure I would never have taken it. It is worthless is it a placebo?""]"
+[' 55-64 |  '],[' Female |  '],[' Condition: Migraine Headache '],[' Overall rating 5.0 '],[],['For some reason every time it gets cloudy i start hurting and I reach for my tylenol. They helps my joints tremendesly.']
+[' 45-54 |  '],[' Male |  '],[' Condition: Backache '],[' Overall rating 3.0 '],[],[]
+[' 65-74 |  '],[' Female |  '],[' Condition: Backache '],[' Overall rating 2.3 '],[],['Abnormal kidney function blood tests ']
+[' 65-74 |  '],[' Male |  '],[' Condition: Muscle Pain '],[' Overall rating 4.0 '],[],['Body aches while sleeping']
+[' 65-74 |  '],[' Female |  '],[' Condition: Backache '],[' Overall rating 5.0 '],[],"['I have used this medicene since it was first put on market for use, and been very happy with the results.  ']"
+[' 75 or over |  '],['  '],[' Condition: Backache '],[' Overall rating 3.0 '],[],[]
+[' 35-44 |  '],[' Female |  '],[' Condition: Pain '],[' Overall rating 3.3 '],[],['i used it as soon as i had pain in my back and it calmed it down long enough to go to sleep']
+[' 35-44 |  '],[' Female |  '],[' Condition: Joint Damage causing Pain and Loss of Function '],[' Overall rating 1.3 '],[],"[""This doesn't even work as a placebo, and as a nurse, I should know.  What a waste of time, money and possible liver damage!""]"
+[' 65-74 |  '],[' Female |  '],[' Condition: Pain associated with Arthritis '],[' Overall rating 3.7 '],[],['I returned a bottle to the store beacuse of a sweet taste I had never tasted before. I had no problems up to this point.']
+[' 55-64 |  '],[' Male |  '],[' Condition: Pain '],[' Overall rating 2.0 '],[],['I was told to use Tylenol for pain for the last 10 days preceding a surgery.  I did only because it was the only thing I could take.  It had little effect on the pain and I would have probably been just as well off without taking it.']
+[' 35-44 |  '],[' Male |  '],[' Condition: Backache '],[' Overall rating 4.3 '],[],['Generally effective']
+[' 19-24 |  '],[' Female |  '],[' Condition: Head Pain '],[' Overall rating 4.0 '],[],[]
+[' 55-64 |  '],[' Male |  '],[' Condition: Pain associated with Arthritis '],[' Overall rating 2.3 '],[],['Tylenol does not help.  Aspirin does help.  Concern about alcohol use with tylenol.']
+[' 55-64 |  '],[' Male |  '],[' Condition: Pain '],[' Overall rating 2.3 '],[],['Does not relieve pain while  Aspirin does relieve the same pain.']
+[' 55-64 |  '],[' Male |  '],[' Condition: Backache '],[' Overall rating 2.3 '],[],"['Did not relieve pain,  however aspirin was effective.']"
+[' 55-64 |  '],[' Male |  '],[' Condition: Fever '],[' Overall rating 2.3 '],[],"['Was not effective, however aspirin did work.']"
+['  '],['   '],[' Condition: Head Pain '],[' Overall rating 1.7 '],[],[]
+[' 75 or over |  '],[' Male |  '],[' Condition: Muscle Pain '],[' Overall rating 5.0 '],[],['After having 2 knee replacement in 1996 I am still suffering from mild to severe muscle pain also in entire body. I have been averaging 4 tylenol per day and after reading warnings of possible liver damage am cutting back but miss the mediacation ????An opinion appreciated']
+[' 55-64 |  '],[' Female |  '],[' Condition: Toothache '],[' Overall rating 3.7 '],[],"[""I JUST STOP TAKING FOR ARTHRITIS AND HAVEN'T FOUND OUT JUST HOW MUCH THIS HAS HELPED. ""]"
+[' 35-44 |  '],[' Female |  '],[' Condition: Toothache '],[' Overall rating 3.0 '],[],[]
+[' 45-54 |  '],[' Male |  '],[' Condition: Pain '],[' Overall rating 3.0 '],[],[]
+[' 75 or over |  '],[' Female |  '],[' Condition: Pain associated with Arthritis '],[' Overall rating 3.7 '],[],['Routinely take six per day.  How does this affect other areas of my system?']
+[' 45-54 |  '],[' Female |  '],[' Condition: Backache '],[' Overall rating 2.0 '],[],[]
+[' 75 or over |  '],[' Female |  '],[' Condition: Pain '],[' Overall rating 3.3 '],[],['it dont eas the pain!']
+[' 45-54 |  '],[' Female |  '],[' Condition: Toothache '],[' Overall rating 4.7 '],[],"['I woke up in the middle of the night, took 2 tylenol and was able to return to sleep. It was a holiday weekend and I needed somethink to work.  I was pleased.  As suggested I did not wait for the pain to escalate, when relief would have been more difficult.']"
+[' 35-44 |  '],[' Female |  '],[' Condition: Toothache '],[' Overall rating 3.3 '],[],['its works but the pain returns before the time or four hours is up']
+[' 13-18 |  '],[' Male |  '],[' Condition: Pain '],[' Overall rating 2.3 '],[],"[""Although the effects of a drug vary from person to person, Tylenol has had very little (if any) effect on pain in my experiences, and I've heard similar comments from friends, including some of whom are health professionals. Tylenol is nothing but a mere fever reducer.""]"
+[' 55-64 |  '],[' Female |  '],[' Condition: Pain associated with Arthritis '],[' Overall rating 3.7 '],[],[]
+[' 55-64 |  '],[' Female |  '],[' Condition: Pain '],[' Overall rating 5.0 '],[],[]
+[' 19-24 |  '],[' Male |  '],[' Condition: Fever '],[' Overall rating 4.7 '],[],[]
+[' 35-44 |  '],[' Female |  '],[' Condition: Pain '],[' Overall rating 2.3 '],[],"['this does nothing for my pain weather it be toothache, backache, headache. I have to take it in such large doses for even a slight effect that I am afraid of overdose. 4000 mg a day is max a day for a person. I can do that easy. scared I could kill my self with overdose is that true?']"
+[' 75 or over |  '],[' Male |  '],[' Condition: Backache '],[' Overall rating 2.7 '],[],"['lower back pain no reason ,even when i wake up']"
+[' Female |  '],[' Patient '],[' Condition: Other '],[' Overall rating 5.0 '],[],"[""I'm 21 and i had an ovarian cyst that ruptured a couple months ago. I took tylenol it helped keep my fever down and it helped with my hip pain. It was hard for me to eat  a lot and i was able to take it without having to eat something with it. I was given tylenol in the hospital as well. I don't know what i would have done without it. ""]"
+[' 25-34 |  '],[' Female |  '],[' Condition: Backache '],[' Overall rating 2.3 '],[],"['Tylenol does absolutely nothing for me. I am not sure why. I have never gotten any effect from it. IBuprofen works better but not a whole lot of relief from that either. I have tried with head aches, muscle pain, and back pain.']"
+[' 75 or over |  '],[' Male |  '],[' Condition: Joint Damage causing Pain and Loss of Function '],[' Overall rating 3.0 '],[],['Lower back back pain .Will tylenol effect the liver ?']
+[' 35-44 |  '],[' Female |  '],[' Condition: Joint Damage causing Pain and Loss of Function '],[' Overall rating 4.0 '],[],"[""I take it like candy. I'm never out of pain.""]"
+['  '],['   '],[' Condition: Pain associated with Arthritis '],[' Overall rating 5.0 '],[],[]
+[' 45-54 |  '],[' Male |  '],[' Condition: Head Pain '],[' Overall rating 5.0 '],[],['it works fast and did away with my headache']
+[' 65-74 |  '],[' Female |  '],[' Condition: Pain associated with Arthritis '],[' Overall rating 2.3 '],[],[]
+[' 45-54 |  '],[' Male |  '],[' Condition: Other '],[' Overall rating 3.0 '],[],"[""Took Tyelenol-PM to help me get to sleep with headache,still didn't sleep well.""]"
+[' 13-18 |  '],[' Female |  '],[' Condition: Painful Periods '],[' Overall rating 1.7 '],[],[]
+[' 35-44 |  '],[' Male |  '],[' Condition: Backache '],[' Overall rating 3.0 '],[],[]
+[' 55-64 |  '],[' Male |  '],[' Condition: Pain associated with Arthritis '],[' Overall rating 5.0 '],[],[]
+[' 55-64 |  '],[' Male |  '],[' Condition: Backache '],[' Overall rating 4.3 '],"['this drug works well for my backpain and it seems to ease the pain for fibromyalgia that iam told i have.This might intrest you.I take one TYLENOL and one PROPOXY-N/APAP.The amazing thing is it does not matter when i take these 2 pills.If in early morning or midday the pain is 80% gone until the next day.I have had pain from broken bones so i would take 2TYLENOL 3s for pain every 3to4 hrs.But with the other 2 pills i need to take them once aday.I have asked several DRs why this is and all of the', 'm say they do not know why.If you could explain why tis combonation works i would sure like to hear it It makes no sense to me but all i know it works for me. THANKS']",[]
+[' 13-18 |  '],[' Female |  '],[' Condition: Toothache '],[' Overall rating 2.7 '],[],"['Does not work for pain due to braces, spacers, etc. But i have friends that say it works for them. so u might as well try it.']"
+[' 25-34 |  '],[' Male |  '],[' Condition: Pain '],[' Overall rating 5.0 '],[],['always work for me. Never failed.']
+[' 55-64 |  '],[' Female |  '],[' Condition: Head Pain '],[' Overall rating 2.0 '],[],"['Taking tylenon, even 650 mg tablets does nothing for a headache.']"
+[' 35-44 |  '],[' Female |  '],[' Condition: Pain '],[' Overall rating 3.3 '],[],['I suffered a knee injury and this drug was prescribed. It helps keep the swelling down ']
+[' 65-74 |  '],[' Female |  '],[' Condition: Pain '],[' Overall rating 4.7 '],[],['I TAKE TYLENOL 2 CAPSUELS EVERY NIGHT ARE THERE ANY DANGERS BY DOING THIS I AM DIABETIC']
+[' 65-74 |  '],[' Male |  '],[' Condition: Pain '],[' Overall rating 2.3 '],[],['I may as well drink a glass of water as use this for pain relief. Is it a placebo ?']
+[' 35-44 |  '],[' Male |  '],[' Condition: Fever '],[' Overall rating 4.0 '],[],[]
+[' 55-64 |  '],[' Male |  '],[' Condition: Backache '],[' Overall rating 4.3 '],[],"['No quite so good on pain caused by inflamation as some, but you can take it more often. ']"
+[' 3-6 |  '],[' Female |  '],[' Condition: Fever '],[' Overall rating 5.0 '],[],['Clear winner in my family for fever reduction and no stomach upset without a doubt.']
+[' 25-34 |  '],[' Female |  '],[' Condition: Head Pain '],[' Overall rating 5.0 '],[],"[""Tylenol got me through pregnancy...when I couldn't take anything else for my frequent headaches.  I did yoga and massage which worked some of the time but my ob said it was fine to also take Tylenol.  Kept using as needed during breastfeeding and even now I find that it still works if I catch my headache early enough.  My primary doc is happy that I've stopped taking nsaids for every little headache since it was killing my stomach.""]"
+['  '],['   '],[' Condition: Head Pain '],[' Overall rating 4.0 '],[],[]
+['  '],['   '],[' Condition: Painful Periods '],[' Overall rating 4.7 '],[],[]
+['  '],['   '],[' Condition: Backache '],[' Overall rating 5.0 '],[],['it has worked for me']
+[' 25-34 |  '],[' Male |  '],[' Condition: Fever '],[' Overall rating 4.0 '],[],['Works very well for fever! But not for Migraine headaches.']
+[' 25-34 |  '],[' Male |  '],[' Condition: Head Pain '],[' Overall rating 4.0 '],[],['Effective pain-killer when used for the occasional mild headache or other pain.']
+[' 25-34 |  '],[' Female |  '],[' Condition: Backache '],[' Overall rating 3.3 '],[],[]
+[' 3-6 |  '],[' Female |  '],[' Condition: Fever '],[' Overall rating 5.0 '],[],['This works for my kids every time.']
